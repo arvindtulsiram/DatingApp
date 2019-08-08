@@ -41,5 +41,5 @@ Thumbs.db
 
 /.vscode
 /bin
-/obj
+obj
 *.db
